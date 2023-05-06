@@ -15,7 +15,8 @@ public class App {
         System.out.println("Hello GitHub! gyc master first GitHub!");
 
         System.out.println("Hello GitHub! gyc master second GitHub!");
-
+        
+        System.out.println("Hello GitHub! gyc master pull test!");
 
 
     }
