@@ -8,6 +8,8 @@ public class App {
         System.out.println("Hello Git! gyc hotfix first commit!");
         System.out.println("Hello Git! gyc hotfix second commit!");
 
+        System.out.println("Hello Git! gyc hotfix first modify!");
+
         System.out.println("Hello Git! gyc master first commit!");
 
     }
