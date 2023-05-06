@@ -12,6 +12,8 @@ public class App {
 
         System.out.println("Hello Git! gyc master first commit!");
 
+        System.out.println("Hello GitHub! gyc master first GitHub!");
+
     }
 
 }
